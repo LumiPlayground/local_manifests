@@ -4,7 +4,7 @@
                 fetch="https://github.com/LumiPlayground" />
 
         <!-- vin8953 -->
-        <project path="device/vsmart/vin8953" name="android_device_vsmart_vin8953" remote="hlong" revision="tess" />
+        <project path="device/vsmart/vin8953" name="android_device_vsmart_vin8953" remote="hlong" revision="lineage-21-re" />
         <project path="kernel/vsmart/vin8953" name="android_kernel_vsmart_vin8953" remote="hlong" revision="vin8953/a14" />
-        <project path="vendor/vsmart/vin8953" name="proprietary_vendor_vsmart_vin8953" remote="hlong" revision="lineage-21" />
+        <project path="vendor/vsmart/vin8953" name="proprietary_vendor_vsmart_vin8953" remote="hlong" revision="lineage-21-re" />
 </manifest>
