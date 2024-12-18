@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <remote name="hlong"
+                fetch="https://github.com/LumiPlayground" />
+
+        <remote name="lineage"
+                fetch="https://github.com/LineageOS" />
+
+        <!-- 8895 -->
+        <project path="device/samsung/dreamlte" name="android_device_samsung_dreamlte" remote="hlong" revision="lineage-20" />
+        <project path="device/samsung/dream2lte" name="android_device_samsung_dream2lte" remote="hlong" revision="lineage-20" />
+        <project path="device/samsung/greatlte" name="android_device_samsung_greatlte" remote="hlong" revision="lineage-20" />
+        <project path="kernel/samsung/universal8895" name="android_kernel_samsung_universal8895" remote="hlong" revision="42r0" />
+        <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="hlong" revision="lineage-20"/>
+
+        <!--Lineage HW repos-->
+        <project path="device/samsung_slsi/sepolicy" name="android_device_samsung_slsi_sepolicy" remote="LineageOS" revision="lineage-20" />
+        <project path="hardware/samsung"  name="android_hardware_samsung" remote="LineageOS" revision="lineage-20" />
+
+        <!--Linaro BSP-->
+        <project name="android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config" remote="hlong" revision="lineage-20"/>
+        <project name="android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos" remote="hlong" revision="lineage-20"/>
+        <project name="android_hardware_samsung_slsi-linaro_exynos5" path="hardware/samsung_slsi-linaro/exynos5" remote="hlong" revision="lineage-20"/>
+        <project name="android_hardware_samsung_slsi-linaro_graphics" path="hardware/samsung_slsi-linaro/graphics" remote="hlong" revision="lineage-20"/>
+        <project name="android_hardware_samsung_slsi-linaro_openmax" path="hardware/samsung_slsi-linaro/openmax" remote="hlong" revision="lineage-20"/>
+</manifest>
