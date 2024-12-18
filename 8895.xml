@@ -10,6 +10,7 @@
         <project path="device/samsung/dreamlte" name="android_device_samsung_dreamlte" remote="hlong" revision="lineage-20" />
         <project path="device/samsung/dream2lte" name="android_device_samsung_dream2lte" remote="hlong" revision="lineage-20" />
         <project path="device/samsung/greatlte" name="android_device_samsung_greatlte" remote="hlong" revision="lineage-20" />
+        <project path="device/samsung/universal8895-common" name="android_device_samsung_universal8895-common" remote="hlong" revision="lineage-20" />
         <project path="kernel/samsung/universal8895" name="android_kernel_samsung_universal8895" remote="hlong" revision="42r0" />
         <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="hlong" revision="lineage-20"/>
 
