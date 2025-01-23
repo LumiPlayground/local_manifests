@@ -24,5 +24,4 @@
         <project name="android_hardware_samsung_slsi-linaro_exynos5" path="hardware/samsung_slsi-linaro/exynos5" remote="hlong" revision="lineage-20"/>
         <project name="android_hardware_samsung_slsi-linaro_graphics" path="hardware/samsung_slsi-linaro/graphics" remote="hlong" revision="lineage-20"/>
         <project name="android_hardware_samsung_slsi-linaro_openmax" path="hardware/samsung_slsi-linaro/openmax" remote="hlong" revision="lineage-20"/>
-        <project name="vendor_samsung_slsi-linaro" path="vendor/samsung_slsi" remote="hlong" revision="lineage-20"/>
 </manifest>
