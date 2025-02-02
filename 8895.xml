@@ -7,16 +7,16 @@
                 fetch="https://github.com/LineageOS" />
 
         <!-- 8895 -->
-        <project path="device/samsung/dreamlte" name="android_device_samsung_dreamlte" remote="hlong" revision="lineage-20" />
-        <project path="device/samsung/dream2lte" name="android_device_samsung_dream2lte" remote="hlong" revision="lineage-20" />
-        <project path="device/samsung/greatlte" name="android_device_samsung_greatlte" remote="hlong" revision="lineage-20" />
-        <project path="device/samsung/universal8895-common" name="android_device_samsung_universal8895-common" remote="hlong" revision="lineage-20" />
+        <project path="device/samsung/dreamlte" name="android_device_samsung_dreamlte" remote="hlong" revision="lineage-18.1" />
+        <project path="device/samsung/dream2lte" name="android_device_samsung_dream2lte" remote="hlong" revision="lineage-18.1" />
+        <project path="device/samsung/greatlte" name="android_device_samsung_greatlte" remote="hlong" revision="lineage-18.1" />
+        <project path="device/samsung/universal8895-common" name="android_device_samsung_universal8895-common" remote="hlong" revision="lineage-18.1" />
         <project path="kernel/samsung/universal8895" name="8890q/android_kernel_samsung_universal8895" remote="github" revision="lineage-21" />
-        <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="hlong" revision="lineage-20"/>
+        <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="hlong" revision="lineage-18.1"/>
 
         <!--Lineage HW repos-->
-        <project path="device/samsung_slsi/sepolicy" name="android_device_samsung_slsi_sepolicy" remote="lineage" revision="lineage-20" />
-        <project path="hardware/samsung"  name="android_hardware_samsung" remote="lineage" revision="lineage-20" />
+        <project path="device/samsung_slsi/sepolicy" name="android_device_samsung_slsi_sepolicy" remote="lineage" revision="lineage-18.1" />
+        <project path="hardware/samsung"  name="android_hardware_samsung" remote="lineage" revision="lineage-18.1" />
 
         <!--Linaro BSP-->
         <project name="android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config" remote="hlong" revision="lineage-20"/>
