@@ -20,6 +20,7 @@
 
         <!--Linaro BSP-->
         <project name="android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config" remote="hlong" revision="lineage-20"/>
+        <project name="android_hardware_samsung_slsi-linaro_camera" path="hardware/samsung_slsi-linaro/camera" remote="hlong" revision="lineage-20"/>
         <project name="android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos" remote="hlong" revision="lineage-20"/>
         <project name="android_hardware_samsung_slsi-linaro_exynos5" path="hardware/samsung_slsi-linaro/exynos5" remote="hlong" revision="lineage-20"/>
         <project name="android_hardware_samsung_slsi-linaro_graphics" path="hardware/samsung_slsi-linaro/graphics" remote="hlong" revision="lineage-20"/>
